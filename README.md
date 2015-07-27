@@ -13,7 +13,8 @@ provide assistance if needed and kindly asked.
 The theoretical background is developped in the journal
 paper entitled "Robust Equivalent Tunnelling Mohr-Coulomb
 Strength Parameters for Generalized Hoek-Brown Media", by
-Meng et al and to be published.
+Meng et al and to be published in European Journal of 
+Environmental and Civil Engineering.
 
 
 Code-users are encouraged to refer to this paper
