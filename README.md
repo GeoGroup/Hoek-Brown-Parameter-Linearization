@@ -22,4 +22,4 @@ for any theoretical concern. Besides, we kindly require
 this articleto be cited if this software is to be used in any
 published work.
 
-
+[1]	Meng Q.-X., Wang H.-L., Xu W.-Y., et al. Robust equivalent tunnelling Mohr–Coulomb strength parameters for generalised Hoek–Brown media [J]. European Journal of Environmental and Civil Engineering, 2015: 1-20.
